@@ -1,0 +1,17 @@
+{
+    "name": "TheBestLiquidCrystal",
+    "keywords": "lcd, hd44780",
+    "description": "LiquidCrystal library with better displaing functions",
+    "authors": {
+        "name": "Ghost",
+        "url": "https://github.com/kubafilinger"
+    },
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/kubafilinger/TheBestLiquidCrystal"
+    },
+    "version": "1.0.0",
+    "frameworks": "arduino",
+    "platforms": "atmelavr,espressif8266"
+}
